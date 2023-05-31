@@ -1,6 +1,11 @@
 .left-fixed {
     position: fixed;
-    left: 0%;
-    top: 50%;
-    transform: translateY(-50%);
+    margin-top: 175px;
   }
+
+.Big-margin{
+    margin-top: 175px;
+}
+.margin-left{
+  margin-left: 500px;
+}
